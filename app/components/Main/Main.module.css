@@ -1,0 +1,32 @@
+.menu__cover{
+    max-width: 2000px;
+    height: 550.25px;
+    width: 100%;
+    border: 1px solid #e5e7eb;
+    background-color: #f9fafb;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.menu__cover img {
+    background: transparent;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+
+
+.main__contents{
+    width: 100%;
+    height: 2697px;
+    border: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
